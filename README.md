@@ -21,21 +21,15 @@ This app will run in the browser, and will feature dynamically updated HTML and 
 
 - Clone application repo
 - Open file in code editor
-- Use localhost:3001/<filename> to load app
+- Use localhost:3001/ **app name**
 
 ## License
 
 This project has no license
 
-## Usage
-
-```
-
-```
-
 ## Submission
 
-[View the app](https://drive.google.com/drive/folders/13cnZR41KTPgyL-P_J2OvzbxuSJMnofjW?usp=sharing)
+[View the app](https://danielcreate.com/js-password-gen/)
 
 ## Questions
 
